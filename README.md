@@ -63,7 +63,7 @@
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MongoDB.svg" title="Mongo DB" alt="Mongo DB" width="40" height="40"/>&nbsp
   <img src="https://cdn.worldvectorlogo.com/logos/metabase.svg" title="Metabase" alt="Metabase" width="40" height="40"/>&nbsp
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/DBeaver_logo.svg/640px-DBeaver_logo.svg.png" title="DBeaver" alt="DBeaver" width="40" height="40"/>&nbsp
+  <img src="https://avatars.mds.yandex.net/i?id=f90a19a95da093f16e91ac03477c399c_l-12532262-images-thumbs&n=13" title="DBeaver" alt="DBeaver" width="40" height="40"/>&nbsp
 </div>
 
 ## Автотесты
