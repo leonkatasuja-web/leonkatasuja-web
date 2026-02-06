@@ -84,7 +84,6 @@
 
 ## 🪴 Практика и стажировка
 [<img src="/Stajirovka.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://raw.githubusercontent.com/leonkatasuja-web/leonkatasuja-web/refs/heads/main/Stajirovka.png)
-[<img src="/internship_auto.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://raw.githubusercontent.com/MaxEvdokimov1/MaxEvdokimov1/main/internship_4fresh.png)
 
 <br>
 
